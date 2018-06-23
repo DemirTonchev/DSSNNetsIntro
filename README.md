@@ -15,7 +15,6 @@ Program:
  - Derivative. Optimising functions with one variable, generalization to higher dimension. 
  - Logistic activation function (logistic regression). Other activation functions.
  - Write own code for logistic regression and gradient descent. 
- - Add more neurons and vectorization in numpy. 
  - Train a neural network (MLP classifier) 
- - Higher level libraries for NNets - Tensorflow or Keras.. not sure yet. Probably Keras for convenience. 
- 
+ - Add more neurons and vectorization in numpy. 
+ - Higher level libraries for NNets - Keras.
